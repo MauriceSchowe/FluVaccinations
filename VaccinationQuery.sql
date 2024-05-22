@@ -1,7 +1,7 @@
 /*
 Building a dashboard that
-- shows percentage of flu vaccination of patients over time (01.01.2010–31.12.2010)
--         "               "             "        by age, ethnicity, county
+- shows percentage of flu vaccination of patients over time (01.01.2010â€“31.12.2010)
+- Â  Â  Â  Â  " Â  Â  Â  Â  Â  Â  Â  " Â  Â  Â  Â  Â  Â  " Â  Â  Â  Â by age, ethnicity, county
 
 The patient must be active. A patient is considered active when he or she
 - had an encounter in the last few years
